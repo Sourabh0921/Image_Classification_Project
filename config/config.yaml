@@ -3,7 +3,7 @@ artifacts_root: artifacts
 
 data_ingestion:
   root_dir: artifacts/data_ingestion
-  source_URL: https://github.com/Sourabh0921/ML_Assignments/raw/master/candlestick%20images.zip
+  source_URL: https://github.com/Sourabh0921/ML_Assignments/raw/master/Medicine%20Images.zip
   local_data_file: artifacts/data_ingestion/data.zip
   unzip_dir: artifacts/data_ingestion
 

@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "CandleStick_Image_Classification_Project"
+REPO_NAME = "Medical_Image_Classification_Project"
 AUTHOR_USER_NAME = "Sourabh0921"
 SRC_REPO = "cnnClassifier"
 AUTHOR_EMAIL = "saurabhkadam612a@gmail.com"
