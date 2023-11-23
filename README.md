@@ -1,4 +1,4 @@
-# CandleStick_Image_Classification_Project
+# ChestXray_Image_Classification_Project
 
 ## Workflows
 1.Update config.yaml
